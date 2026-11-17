@@ -1,0 +1,5 @@
+[
+  {"team": "Delivery A", "capacity_hours": 400, "assigned_hours": 352},
+  {"team": "Delivery B", "capacity_hours": 360, "assigned_hours": 392},
+  {"team": "Quality", "capacity_hours": 120, "assigned_hours": 90}
+]

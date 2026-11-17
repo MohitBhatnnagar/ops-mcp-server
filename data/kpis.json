@@ -1,0 +1,6 @@
+[
+  {"name": "First-pass quality %", "value": 93, "target": 95},
+  {"name": "Onboarding days", "value": 12, "target": 14, "lower_is_better": true},
+  {"name": "SLA adherence %", "value": 97, "target": 95},
+  {"name": "Automation coverage %", "value": 31, "target": 40}
+]
